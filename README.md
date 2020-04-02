@@ -1,12 +1,12 @@
 # cura-aqua-dark-theme
 
-Dark colorful theme for [Cura](https://github.com/Ultimaker/Cura) 3.1
+Dark colorful theme for [Cura](https://github.com/Ultimaker/Cura) 4.5
 
 ## Installation
 Move the `aqua-dark` folder to the themes folder in the Cura data folder:
 
 #### Windows
-`$User/AppData/Roaming/cura/$CURA_VERSION/themes`
+`%AppData%/Roaming/cura/$CURA_VERSION/themes`
 #### macOS
 `$User/Library/Application Support/Cura/$CURA_VERSION/themes`
 #### Linux
